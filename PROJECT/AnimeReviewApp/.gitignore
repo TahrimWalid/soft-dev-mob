@@ -23,3 +23,6 @@ Thumbs.db
 bin/
 gen/
 out/
+
+# MD files
+STUDY_DIARY.md
