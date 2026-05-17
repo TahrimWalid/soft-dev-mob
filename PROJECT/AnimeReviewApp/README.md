@@ -8,14 +8,14 @@
 
 ## Features
 
-✅ **LazyColumn List View** - Display all anime reviews with posters, ratings, and favorites
-✅ **Multi-Screen Navigation** - Navigate between list, detail, and add review screens  
-✅ **Add Review Form** - Title, genre, rating (1-5 slider), review text, favorite toggle
-✅ **Detail View** - Full review with large poster image, complete ratings, and review text
-✅ **Search & Sort** - Filter by title, sort by rating or alphabetically
-✅ **Material3 Theme** - Modern UI with anime-inspired colors (purple & orange)
-✅ **Favorite System** - Mark/unmark anime as favorites
-✅ **Sample Data** - 10 preloaded anime reviews with full content
+   - ✅ **LazyColumn List View** - Display all anime reviews with posters, ratings, and favorites
+   - ✅ **Multi-Screen Navigation** - Navigate between list, detail, and add review screens  
+   - ✅ **Add Review Form** - Title, genre, rating (1-5 slider), review text, favorite toggle
+   - ✅ **Detail View** - Full review with large poster image, complete ratings, and review text
+   - ✅ **Search & Sort** - Filter by title, sort by rating or alphabetically
+   - ✅ **Material3 Theme** - Modern UI with anime-inspired colors (purple & orange)
+   - ✅ **Favorite System** - Mark/unmark anime as favorites
+   - ✅ **Sample Data** - 10 preloaded anime reviews with full content
 
 ## Project skills showcased
 
